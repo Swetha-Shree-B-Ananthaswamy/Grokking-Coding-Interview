@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T22:57:30.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="eCVkZnhNcQnPcVJcVL1z" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-17T05:54:35.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="LqcrrY6U-pSp7NWBxOEk" version="20.3.2" type="github">
   <diagram id="JfeKlMQIGDguwkSBTvjh" name="Page-1">
-    <mxGraphModel dx="2578" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2297" dy="836" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,10 +112,10 @@
           <mxGeometry x="310" y="1320" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5YwwEChgAFxVlKL_x72G-17" value="&lt;b&gt;loves the shawshank redemption&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1320" width="230" height="110" as="geometry" />
+          <mxGeometry x="655" y="1334" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5YwwEChgAFxVlKL_x72G-18" value="&lt;b&gt;if they are , then they probably&amp;nbsp;&lt;br&gt;do not love the shawshank&lt;br&gt;redemption&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1207" width="380" height="100" as="geometry" />
+          <mxGeometry x="67" y="1160" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5YwwEChgAFxVlKL_x72G-20" value="&lt;b&gt;if not , they &lt;br&gt;probably love&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;The shawshank&amp;nbsp;&lt;br&gt;Redemption&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="820" y="1250" width="240" height="130" as="geometry" />
@@ -126,25 +126,22 @@
         <mxCell id="5YwwEChgAFxVlKL_x72G-22" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="430" y="1210" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_eyE1aHOECGhalQiHRq8-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;???&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="680" y="1800" width="200" height="80" as="geometry" />
+        <mxCell id="_eyE1aHOECGhalQiHRq8-19" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Loves Soda&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1262" y="3546" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_eyE1aHOECGhalQiHRq8-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1890" as="sourcePoint" />
-            <mxPoint x="680" y="2030" as="targetPoint" />
+            <mxPoint x="1342" y="3636" as="sourcePoint" />
+            <mxPoint x="1262" y="3776" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_eyE1aHOECGhalQiHRq8-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="770" y="1890" as="sourcePoint" />
-            <mxPoint x="870" y="2030" as="targetPoint" />
+            <mxPoint x="1352" y="3636" as="sourcePoint" />
+            <mxPoint x="1452" y="3776" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="_eyE1aHOECGhalQiHRq8-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="840" y="2040" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_eyE1aHOECGhalQiHRq8-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="470" y="2030" width="245" height="60" as="geometry" />
@@ -201,20 +198,20 @@
         <mxCell id="kwvTGmeSfmgrvvfElEr8-1" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="2850" width="26" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Gini&amp;nbsp; Impurity&amp;nbsp; &amp;nbsp; &amp;nbsp;=&amp;nbsp; 1&amp;nbsp; - (the probability of &quot;yes&quot;)^2&amp;nbsp; - (the probability of &quot;No&quot;)^2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="374" y="2981" width="838" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Gini&amp;nbsp; Impurity&amp;nbsp; &amp;nbsp; &amp;nbsp;=&amp;nbsp; 1&amp;nbsp; - (the probability of &quot;yes&quot;)^2&amp;nbsp; - (the probability of &quot;No&quot;)^2&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="357" y="3059" width="910" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1 - (the number for &quot;yes&quot; / The total for the leaf) ^2&amp;nbsp; - (the number for &quot;No&quot; / The total for the leaf) ^2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-485" y="3067" width="1816" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-3" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1 - (the number for &quot;yes&quot; / The total for the leaf) ^2&amp;nbsp; - (the number for &quot;No&quot; / The total for the leaf) ^2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-548" y="2949" width="1896" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-4" value="1 - (1/4)^2 - (3/4)^2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="543" y="3127" width="222" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-4" value="&lt;b&gt;1 - (1/4)^2 - (3/4)^2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1187" y="3118" width="227" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;=1-(1/16)- (9/16)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="650" y="3127.5" width="307" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-5" value="&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;=1-(1/16)- (9/16)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="948" y="3015" width="307" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-6" value="= 0.375&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="663" y="3185" width="99" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-6" value="&lt;b&gt;= 0.375&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1227" y="3225" width="99" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-7" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=24;arrowWidth=0.23333333333333334;arrowSize=0.46;" vertex="1" parent="1">
           <mxGeometry x="907" y="2760" width="55" height="36" as="geometry" />
@@ -228,87 +225,183 @@
         <mxCell id="kwvTGmeSfmgrvvfElEr8-10" value="9-4-1 /9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1009" y="2833" width="101" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-11" value="= 0.444" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-11" value="&lt;b&gt;= 0.444&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1103" y="2842" width="99" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-12" value="Total Gini&amp;nbsp; &lt;br&gt;Impurity&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="316" y="3368" width="125" height="70" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-12" value="&lt;b&gt;Total Gini&amp;nbsp; &lt;br&gt;Impurity&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="272" y="3240" width="134" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-15" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = weighted average of Gini Impurities for the Leaves&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="356.5" y="3441" width="687" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-15" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; = weighted average of Gini Impurities for the Leaves&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3254.5" width="727" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-16" value="= (4/(4+3)) *0.375&amp;nbsp; +(3/(3+4)) * 0.444" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="441" y="3379" width="410" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-17" value="= 0.405" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="545" y="3438" width="99" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-17" value="&lt;b&gt;= 0.405&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="399" y="4074" width="99" height="41" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-18" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Loves Soda&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="319" y="3589" width="195" height="60" as="geometry" />
+          <mxGeometry x="1939" y="3052" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="398.99999999999955" y="3659" as="sourcePoint" />
-            <mxPoint x="318.99999999999955" y="3799" as="targetPoint" />
+            <mxPoint x="2018.9999999999995" y="3122" as="sourcePoint" />
+            <mxPoint x="1938.9999999999995" y="3262" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="408.99999999999955" y="3659" as="sourcePoint" />
-            <mxPoint x="508.99999999999955" y="3799" as="targetPoint" />
+            <mxPoint x="2028.9999999999995" y="3122" as="sourcePoint" />
+            <mxPoint x="2128.9999999999995" y="3262" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;yes&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="479" y="3809" width="210" height="100" as="geometry" />
+          <mxGeometry x="2099" y="3272" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;yes&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;      &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;  1&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="185" y="3809" width="210" height="100" as="geometry" />
+          <mxGeometry x="1805" y="3272" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-23" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="279" y="3679" width="50" height="40" as="geometry" />
+          <mxGeometry x="1899" y="3142" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-24" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="484" y="3689" width="50" height="40" as="geometry" />
+          <mxGeometry x="2104" y="3152" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kwvTGmeSfmgrvvfElEr8-25" value="&lt;b&gt;Total Gini Impurity of the loves soda is&amp;nbsp; = 0.214&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="562" y="3736" width="552" height="41" as="geometry" />
+          <mxGeometry x="2182" y="3199" width="552" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Age &amp;lt;9.5&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="230" y="4318" width="195" height="60" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-37" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Age &amp;lt; 12.5&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1143" y="3780" width="195" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="309.99999999999955" y="4388" as="sourcePoint" />
-            <mxPoint x="229.99999999999955" y="4528" as="targetPoint" />
+            <mxPoint x="1223" y="3850" as="sourcePoint" />
+            <mxPoint x="1143" y="3990" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.99999999999955" y="4388" as="sourcePoint" />
-            <mxPoint x="419.99999999999955" y="4528" as="targetPoint" />
+            <mxPoint x="1233" y="3850" as="sourcePoint" />
+            <mxPoint x="1333" y="3990" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;yes&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="390" y="4538" width="210" height="100" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;yes&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;3&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 0&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1303" y="4000" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;yes&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;0&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;      &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;  1&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="96" y="4538" width="210" height="100" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;yes&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;0&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;      &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;  1&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1009" y="4000" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-32" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="190" y="4408" width="50" height="40" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-42" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="3870" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-33" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="395" y="4418" width="50" height="40" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-43" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1308" y="3880" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-34" value="Total Gini Impurity is given by&amp;nbsp; =&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="55" y="4711" width="364" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-44" value="&lt;b&gt;Total Gini Impurity is given by&amp;nbsp; =&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1663" y="2922" width="393" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="kwvTGmeSfmgrvvfElEr8-35" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(1/(1+6)) * 0.0 + (6/(1+6)) *0.5&amp;nbsp; &amp;nbsp; = 0.429&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="46" y="4704" width="824" height="41" as="geometry" />
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-45" value="&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(1/(1+6)) * 0.0 + (6/(1+6)) *0.5&amp;nbsp; &amp;nbsp; = 0.429&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2729.5" y="4267.12" width="824" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-46" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Loves popcorn&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="434" y="3787" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="3856.9999999999995" as="sourcePoint" />
+            <mxPoint x="434" y="3996.9999999999995" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="3856.9999999999995" as="sourcePoint" />
+            <mxPoint x="624" y="3996.9999999999995" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;yes&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;2&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="594" y="4007" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;yes&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;  &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;1&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;      &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;  1&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4007" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-51" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="394" y="3877" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-52" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="599" y="3887" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-53" value="&lt;b&gt;Gini Impurity = 0.25&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="399" y="4155" width="240" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-54" value="&lt;b&gt;Gini Impurity is 0&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="4148" width="213" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;yes&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;N&lt;/span&gt;o&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp;0&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="3784" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-56" value="&lt;b&gt;yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1212" y="3670" width="58" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-57" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1419" y="3663" width="50" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-72" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Loves Soda&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1212" y="4287" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1292" y="4377" as="sourcePoint" />
+            <mxPoint x="1212" y="4517" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1302" y="4377" as="sourcePoint" />
+            <mxPoint x="1402" y="4517" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-75" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Age &amp;lt; 12.5&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="4521" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173" y="4591" as="sourcePoint" />
+            <mxPoint x="1093" y="4731" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1183" y="4591" as="sourcePoint" />
+            <mxPoint x="1283" y="4731" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Loves Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1253" y="4741" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Does not Love Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="959" y="4741" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-80" value="&lt;b&gt;Yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1053" y="4611" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-81" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1258" y="4621" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Does not love Shawshank Redemption&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="4525" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-83" value="&lt;b&gt;yes&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1162" y="4411" width="58" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="kwvTGmeSfmgrvvfElEr8-84" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1369" y="4404" width="50" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
